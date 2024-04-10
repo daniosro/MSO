@@ -1,0 +1,22 @@
+﻿Organism,epsilon_min,epsilon_max,epsilon_avg,low_limit,upp_limit,Type
+Acidithiobacillus thiooxidans,-2.5,1.2,-0.65,-1.85,1.85,sulfide_to_s0
+Allochromatium vinosum,1.1,2.5,1.8,-0.7,0.7,sulfide_to_s0
+Chloropseudomonas ethylicum,1.5,1.5,1.5,0,0,sulfide_to_s0
+Rhodopseudomonas sp.,1.2,2.6,1.9,-0.7,0.7,sulfide_to_s0
+Ectothiorhodospira shaposhnikovii,2.2,2.2,2.2,0,0,sulfide_to_s0
+Chlorobaculum tepidum,1,2.3,1.65,-0.65,0.65,sulfide_to_s0
+Chlorobium vibrioforme subsp. thiosulphatophilum,2.2,2.6,2.4,-0.2,0.2,sulfide_to_s0
+Desulfurivibrio alkaliphilius,12,13.1,12.55,-0.55,0.55,sulfide_to_so4
+Allochromatium vinosum,-0.1,0.3,0.1,-0.2,0.2,sulfide_to_so4
+Chlorobaculum tepidum,-2.3,-0.7,-1.5,-0.8,0.8,sulfide_to_so4
+Thiobacillus denitrificans,-2.9,-1.6,-2.25,-0.65,0.65,sulfide_to_so4
+Sulfurimonas denitrificans,-4.3,-1.3,-2.8,-1.5,1.5,sulfide_to_so4
+Acidithiobacillus thiooxidans,-0.8,-0.9,-0.85,0.05,-0.05,sulfide_to_so4
+Chlorobium vibrioforme subsp. thiosulphatophilum,0.3,0.4,0.35,-0.05,0.05,s0_to_so4
+Chlorobium vibrioforme subsp. thiosulphatophilum,-1,-2.4,-1.7,0.7,-0.7,s0_to_so4
+Chlorobaculum tepidum,-3.3,-0.8,-2.05,-1.25,1.25,s0_to_so4
+Acidithiobacillus ferroxidans (Ox. by O2),-4.4,-3.6,-4,-0.4,0.4,chalcopyrite_to_so4
+Acidithiobacillus ferroxidans (Ox. by Fe(III)),-1.7,-1.3,-1.5,-0.2,0.2,chalcopyrite_to_so4
+Acidithiobacillus ferroxidans (Ox. by O2),-0.1,0.2,0.05,-0.15,0.15,sphalerite_to_so4
+Acidithiobacillus ferroxidans (Ox. by Fe(III)),-1.3,-0.6,-0.95,-0.35,0.35,sphalerite_to_so4
+Acidithiobacillus ferroxidans (Ox. by Fe(III)),-1.7,3.5,0.9,-2.6,2.6,pyrite_to_so4
